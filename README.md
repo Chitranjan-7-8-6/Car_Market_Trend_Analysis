@@ -109,7 +109,7 @@ Car-Market-Trends-Analysis/
 
 ## 🙌 Acknowledgements
 
-Dataset sourced from **CarDekho** used-vehicle listings. Built as part of an AICTE DIY project assignment.
+Dataset sourced from **CarDekho** used-vehicle listings. Built as part of an VOIS DIY project assignment.
 
 ---
 
